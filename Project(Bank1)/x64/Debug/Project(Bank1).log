@@ -1,0 +1,5 @@
+﻿  Project(Bank1).cpp
+M:\Visual Studio Projects\Course 7 Problem Solving\Project(Bank1)\Project(Bank1)\Project(Bank1).cpp(38,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+M:\Visual Studio Projects\Course 7 Problem Solving\Project(Bank1)\Project(Bank1)\Project(Bank1).cpp(166,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+M:\Visual Studio Projects\Course 7 Problem Solving\Project(Bank1)\Project(Bank1)\Project(Bank1).cpp(332,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  Project(Bank1).vcxproj -> M:\Visual Studio Projects\Course 7 Problem Solving\Project(Bank1)\x64\Debug\Project(Bank1).exe
